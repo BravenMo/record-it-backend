@@ -1,5 +1,7 @@
 # record_it_backend
-A web application project that is used to record and review your entertainment. (Work in Progress)
+A web application project that is used to record and review your entertainment. (Work in Progress).
+
+
 This reposiory contains the middle layer APIs made using spring boot.
 To view the frontend built on angular, go to: https://github.com/BravenMo/record-it-ui
 
